@@ -4,4 +4,4 @@
     pool:
       name: local
     #pool:
-    #  vmImage: ubuntu-latest
+      vmImage: ubuntu-latest
